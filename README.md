@@ -35,12 +35,12 @@ I am a UCLA grad with an engineering background who has made the transition into
 
 <details>
     <summary>Stjax Style</summary>
-    - I see my team as a "team" - sports analogies will be used
-    - I think like an engineer but have evolved into a product manager over time
-    - When my coworkers look to me for help/support I prefer they lead with the problem not the potential solutions. Working out solutions is what I do best!
-    - I love to talk through ideas out loud
-    - Big on company culture
-    - I believe my superpower is being able to communicate comfortably with engineers and business stakeholders
+    * I see my team as a "team" - sports analogies will be used
+    * I think like an engineer but have evolved into a product manager over time
+    * When my coworkers look to me for help/support I prefer they lead with the problem not the potential solutions. Working out solutions is what I do best!
+    * I love to talk through ideas out loud
+    * Big on company culture
+    * I believe my superpower is being able to communicate comfortably with engineers and business stakeholders
 </details>
 
 ## Weaknesses I'm Conscious Of
@@ -48,9 +48,9 @@ I am a UCLA grad with an engineering background who has made the transition into
 
 <details>
     <summary>I'm working on it</summary>
-    - I can get distracted by problems that are not urgent - they can't be that hard to fix right?!
-    - I have strong feelings about engineering practices/principles that can leak out even now that I am no longer an engineer
-    - 
+    * I can get distracted by problems that are not urgent - they can't be that hard to fix right?!
+    * I have strong feelings about engineering practices/principles that can leak out even now that I am no longer an engineer
+    * I will try to make you my friend - not everyone is looking for friends at work 
 </details>
 
 ## My Values (and what I value in others)
@@ -58,9 +58,9 @@ I am a UCLA grad with an engineering background who has made the transition into
 
 <details>
     <summary>Values</summary>
-    - 
-    -
-    -
+    * Work together to achieve great things
+    * 
+    *
 </details>
 
 
@@ -69,8 +69,8 @@ I am a UCLA grad with an engineering background who has made the transition into
 
 <details>
     <summary>Don't take offense - it's probably not about you</summary>
-    - People who describe me in the "& team" bucket. Saying "manager name and team worked really hard on _____" is not good enough. Unless the team is > 5 people, use names.
-    - 
+    * People who describe me in the "& team" bucket. Saying "manager name and team worked really hard on _____" is not good enough. Unless the team is > 5 people, use names.
+    * 
 </details>
 
 ## Other
