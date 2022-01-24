@@ -16,8 +16,8 @@ Welcome to the Personal User Manual Template! Simply click "Use this template" a
 
 
 <details>
-    <summary>Tips</summary>
-Optional Section: You may want to fill out this as a section to help introduce yourself to new joiners or to people from outside your team. Feel free to keep it light and don't worry about going into much detail about yourself in a professional sense, as that can be covered by later sections. Some suggested points might be where you grew up, what your hobbies are or a fun fact about yourself.
+    <summary>Who is Chris St. Jacques (pronounced saint jax)</summary>
+I am a UCLA grad with an engineering background who has made the transition into Product Management. I have worked in the worlds of e-commerce, affiliate marketing, and have now ventured into Ed-Tech. I go by Chris or Stjax (pronounced saint jax)
 </details>
 
 ## How to Contact Me
@@ -25,55 +25,52 @@ Optional Section: You may want to fill out this as a section to help introduce y
 
 <details>
     <summary>Tips</summary>
-Essential Section: You might want to think about some caveats here. Perhaps Slack is fine for a quick question but for longer communication you'd prefer to speak in person.
+    1. You can always reach me on Slack for anything quick
+    2. If you want to connect, an impromptu Slack huddle or Zoom meeting works well
+    3. For anything that needs a larger conversation, grab some time on my calendar. I do my best to keep it up to date
 </details>
 
 ## Preferred Working Style
 
 
 <details>
-    <summary>Tips</summary>
-Recommended Section: This section is pretty open to interpretation. You might want to think about practical details like what time of day you focus best, or whether you have external commitments at specific times. Equally you can include more abstract details like whether you find certain kinds of collaboration helpful to get your work done (pairing or shadowing work for example).
+    <summary>Stjax Style</summary>
+    - I see my team as a "team" - sports analogies will be used
+    - I think like an engineer but have evolved into a product manager over time
+    - When my coworkers look to me for help/support I prefer they lead with the problem not the potential solutions. Working out solutions is what I do best!
+    - I love to talk through ideas out loud
+    - Big on company culture
+    - I believe my superpower is being able to communicate comfortably with engineers and business stakeholders
 </details>
 
-## What Motivates Me
+## Weaknesses I'm Conscious Of
 
 
 <details>
-    <summary>Tips</summary>
-Recommended Section: Think about what gives you energy in work. What, about the work that you do, motivates you to push yourself? This doesn't need to be inspirational, it can be as simple as you enjoying seeing the results. The purpose of this section is to help your line manager and squad members to gain a picture of the work each person finds meaningful and interesting.
-</details>
-
-## What Demotivates Me
-
-
-<details>
-    <summary>Tips</summary>
-Recommended Section: The flip side of the above. Everyone has parts of their work they find less interesting, and they won't be the same for everyone. You never know, a task you find impossibly tedious might be something someone else really enjoys - if so, you've discovered a win-win!
+    <summary>I'm working on it</summary>
+    - I can get distracted by problems that are not urgent - they can't be that hard to fix right?!
+    - I have strong feelings about engineering practices/principles that can leak out even now that I am no longer an engineer
+    - 
 </details>
 
 ## My Values (and what I value in others)
 
 
 <details>
-    <summary>Tips</summary>
-Recommended Section: Accepting that we all treat each other with empathy, care and respect as a baseline. What values do you hold in the highest regard? What traits make you admire a person?
+    <summary>Values</summary>
+    - 
+    -
+    -
 </details>
 
-## My Blind Spots
-
-
-<details>
-    <summary>Tips</summary>
-Recommended Section: Everyone needs help sometimes. This is a good section to list the things you know you need help with or actively want feedback on. One caveat is that listing something here doesn't automatically excuse it! If you know you need to work on a particular area then please make sure you are doing so, soliciting feedback to measure your progress.
-</details>
 
 ## My Pet Peeves
 
 
 <details>
-    <summary>Tips</summary>
-Optional Section: It might be tempting to use this section to vent, that's absolutely fine but the more constructive the better. If there are simple things people can reasonably avoid doing, then list them here. Bear in mind that you will also need to also read your squad members' pet peeves section, it's a 2 way street.
+    <summary>Don't take offense - it's probably not about you</summary>
+    - People who describe me in the "& team" bucket. Saying "manager name and team worked really hard on _____" is not good enough. Unless the team is > 5 people, use names.
+    - 
 </details>
 
 ## Other
