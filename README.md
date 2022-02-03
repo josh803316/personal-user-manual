@@ -1,87 +1,70 @@
-# Personal User Manual Template
+# Personal User Manual
 
-Welcome to the Personal User Manual Template! Simply click "Use this template" above to create your own copy. You may want to read [The Pitch/Anti-Pitch for Personal User Manuals](https://medium.com/@caminmccluskey/personal-user-manuals-the-good-the-bad-and-the-template-7b80db5044ea) first.
-
-### Serving Your Personal User Manual as a Website
-
-[Example](https://camin-mccluskey.github.io/Personal-User-Manual)
-
-1. Click "Use this template" above to create a copy in your Github space. For help with this see [here](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template).
-2. Change the repository name to `personal-user-manual`.
-3. Edit the sections below to make it uniquely yours. Remember to delete everything inside the the `<details>` tags to remove the help tips.
-4. Go to Settings and scroll down to Github Pages then change the source to `master`. You can also set a new theme here.
-5. Visit `https://<your-github-username>.github.io/personal-user-manual` to see your work!
+Welcome to the personal user manual of Chris St. Jacques - Principle Product Manager at Sketchy.
 
 ## About Me
+### Who is Chris St. Jacques (pronounced saint jax)
+I am a UCLA grad with an engineering background who has made the transition into Product Management. I have worked in the worlds of e-commerce, affiliate marketing, and have now ventured into Ed-Tech. I go by Chris or Stjax (pronounced saint jax).
 
+I am a born and raised LA kid who loves to solve problems. I enjoy anything competitive and can say with confidence that I hate losing more than I like winning. I believe my superpower is being able to communicate comfortably with engineers and business stakeholders. 
 
-<details>
-    <summary>Who is Chris St. Jacques (pronounced saint jax)</summary>
-I am a UCLA grad with an engineering background who has made the transition into Product Management. I have worked in the worlds of e-commerce, affiliate marketing, and have now ventured into Ed-Tech. I go by Chris or Stjax (pronounced saint jax)
-</details>
 
 ## How to Contact Me
+Considering the fact that we are all remote, here are some quick tips on how to get in touch with me for work:
+
+### Tips
+1. You can always reach me on Slack for anything quick
+2. If you want to connect, an impromptu Slack huddle or Zoom meeting works well
+3. I always keep my email inbox clean. If you are more of an email person, do not fear I will definitely see it.
+4. For anything that needs a larger conversation, grab some time on my calendar. I do my best to keep it up to date
+
+If you do not get a reaction or response within an hour or so, feel free to follow up.
+
+## My Working Style/Expectations
+
+### Stjax Style
+- I see my team as a "team" - sports analogies will be used - and I expect that team to work together in order to win
+- I like surrounding myself with problem solvers. I think like an engineer but have evolved into a product manager over time so I love to tackle problems. 
+- When my coworkers look to me for help/support I prefer they lead with the problem not the potential solutions. Working out solutions is what I do best!
+- I love to talk through ideas out loud
+- Big on company culture
+- DEI initiatives are near and dear to my heart
 
 
-<details>
-    <summary>Tips</summary>
-    1. You can always reach me on Slack for anything quick
-    2. If you want to connect, an impromptu Slack huddle or Zoom meeting works well
-    3. For anything that needs a larger conversation, grab some time on my calendar. I do my best to keep it up to date
-</details>
+### Weaknesses I Am Conscious Of
 
-## Preferred Working Style
+- I can get distracted by problems that are not urgent - they can't be that hard to fix right?!
+- I have strong feelings about engineering practices/principles that can leak out even now that I am no longer an engineer
+- I will try to make you my friend - not everyone is looking for friends at work 
 
 
-<details>
-    <summary>Stjax Style</summary>
-    * I see my team as a "team" - sports analogies will be used
-    * I think like an engineer but have evolved into a product manager over time
-    * When my coworkers look to me for help/support I prefer they lead with the problem not the potential solutions. Working out solutions is what I do best!
-    * I love to talk through ideas out loud
-    * Big on company culture
-    * I believe my superpower is being able to communicate comfortably with engineers and business stakeholders
-</details>
+### My Values (and what I value in others)
 
-## Weaknesses I'm Conscious Of
-
-
-<details>
-    <summary>I'm working on it</summary>
-    * I can get distracted by problems that are not urgent - they can't be that hard to fix right?!
-    * I have strong feelings about engineering practices/principles that can leak out even now that I am no longer an engineer
-    * I will try to make you my friend - not everyone is looking for friends at work 
-</details>
-
-## My Values (and what I value in others)
-
-
-<details>
-    <summary>Values</summary>
-    * Work together to achieve great things
-    * 
-    *
-</details>
+- Work together to achieve great things
+- Nobody should be too big or important to do the small things needed for success
+- The makeup of a great team includes diversity in skills, ideas, and people
 
 
 ## My Pet Peeves
+### Don't take offense - it's probably not about you
+- Deadlines without context - if something absolutely has to be done by a certain date at least give me the courtesy of telling me why
+- People who describe me in the "& team" bucket. Saying "manager name and team worked really hard on _____" is not good enough. Unless the team is > 5 people, use names.
+- When people say "that is not my job" - I expect everyone to be comfortable wearing multiple hats. Do what needs to be done to get the job done. 
+- Unproductive meetings - scheduled meetings are a necessary evil in the workplace, but if you are blocking time, remember your meeting costs the company the salaries of everyone involved in the meeting for however long the meeting runs.
 
+## My Claim to Fame
+I came up with the idea for a product that grew from $1M in year one, to over $80 Million dollars in sales for online retailers in the 3rd year after the official launch. Working alongside one of my coworkers to develop the intial prototype, I served as the first engineer on the product and eventually the product manager overseeing all of it's activity.
 
-<details>
-    <summary>Don't take offense - it's probably not about you</summary>
-    * People who describe me in the "& team" bucket. Saying "manager name and team worked really hard on _____" is not good enough. Unless the team is > 5 people, use names.
-    * 
-</details>
+## Things You Should Know About Me
+- I am a proud UCLA Grad - it will come up
+- Lakers, Cowboys, Dodgers, UCLA > all other sports teams
+- I'm an only child
+- I hate awkward silence
+- I love sour candy
+- I play basketball and soccer but am willing to compete in basically anything
 
-## Other
+## Things You May Not Know About Me
+- I was an engineer for over 3 years after college
+- I was with my first company after college for over 9 years
+- I can put together a solid Freddie Mercury costume
 
-
-<details>
-    <summary>Tips</summary>
-Optional Section: There are some sections that are deliberately omitted from this template, but which arguably should be here - depending on your role, how comfortable you are sharing with your team etc. You may want to include these or use them as inspiration for your own.
-
-- "How I like my 1:1s" - This might be more relevant for managers to set expectations of their direct reports. Although direct reports certainly should have a say in how their 1:1s are structured
-- "Quirks" - While this is a fun one, there is a temptation to hide behaviour here that probably should be worked on instead. Additionally, behaviour is complex, situation dependent and evolving. Stating you have a particular quirk makes it immutable and sets the expectation that you will always act like this. That said please feel free to include a section like this as it's a good icebreaker, and adds a personal touch. Just be aware that you might be unaware of some of your own "quirky" behaviour.
-- "How to interpret my calendar" - If you're someone with wall to wall meetings every day it might be difficult for colleagues to find a good time to speak with you. If this is the case, then this section might be helpful to outline when you typically could make time for them.
-- "What you can expect from me" - Another one that might be useful for line managers, career coaches and mentors more than ICs. You may want to use this to set expectations around how often you'll be scheduling catchups, how you share feedback and what sort of support you can offer.
-</details>
