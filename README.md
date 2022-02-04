@@ -63,9 +63,6 @@ If you do not get a reaction or response within an hour or so, feel free to foll
 - When people say "that is not my job" - I expect everyone to be comfortable wearing multiple hats. Do what needs to be done to get the job done. 
 - Unproductive meetings - scheduled meetings are a necessary evil in the workplace, but if you are blocking time, remember your meeting costs the company the salaries of everyone involved in the meeting for however long the meeting runs.
 
-## My Claim to Fame
-I came up with the idea for a product that grew from $1M in year one, to over $80 Million dollars in sales for online retailers in the 3rd year after the official launch. Working alongside one of my coworkers to develop the intial prototype, I served as the first engineer on the product and eventually the product manager overseeing all of it's activity.
-
 ## Things You Should Know About Me
 - I am a proud UCLA Grad - it will come up
 - Lakers, Cowboys, Dodgers, UCLA > all other sports teams
@@ -78,6 +75,9 @@ I came up with the idea for a product that grew from $1M in year one, to over $8
 - I was with my first company after college for over 9 years
 - I'm an only child
 - I can put together a solid Freddie Mercury costume
+
+## My Claim to Fame
+I came up with the idea for a product that grew from $1M in year one, to over $80 Million dollars in sales for online retailers in the 3rd year after the official launch. Working alongside one of my coworkers to develop the intial prototype, I served as the first engineer on the product and eventually the product manager overseeing all of it's activity.
 
 ## My Swings And Misses
 I have had plenty of "great ideas" that never came to fruition. Owning those "swings and misses" I think helps me keep moving forward
