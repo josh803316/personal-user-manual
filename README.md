@@ -1,52 +1,45 @@
 # Personal User Manual
 
-Welcome to the personal user manual of Chris St. Jacques - Principle Product Manager at Sketchy.
-
-![chris_sketchy](https://user-images.githubusercontent.com/92054972/152471704-a8d442a4-db7f-4af0-aad2-9a9e427553ef.png)
-
+Welcome to the personal user manual of Josh Nisenson - SVP of Engineering at Videate.
 
 ## About Me
-### Who is Chris St. Jacques (pronounced saint jax)
-I am a UCLA grad with an engineering background who has made the transition into Product Management. I have worked in the worlds of e-commerce, affiliate marketing, and have now ventured into Ed-Tech. I go by Chris or Stjax (pronounced saint jax).
+### Who is Josh Nisenson (pronounced nis-in-sun)
+I am a UCSB grad with a math and cs background who started my career in Quality Assurance 25+ years ago. I have worked in the worlds of telecommunications, automated testing, advertising technology, educational technology, and have now ventured into Video automation. I go by Josh :)
 
-I am a born and raised LA kid who loves to solve problems. I enjoy anything competitive and can say with confidence that I hate losing more than I like winning. I believe my superpower is being able to communicate comfortably with engineers and business stakeholders. 
-
+I am a born and raised in Sonoma County (also known as wine country) and played lots of sports, especially baseball as a kid. I enjoy anything competitive and can say with confidence that I hate losing more than I like winning. I believe my superpower is being able to find problems with systems, processes, behaviors and to improve them. 
 
 ## How to Contact Me
 Considering the fact that we are all remote, here are some quick tips on how to get in touch with me for work:
 
 ### Tips
-1. You can always reach me on Slack for anything quick
+1. You can always reach me on Slack for anything quick, I have an open door policy
 2. If you want to connect, an impromptu Slack huddle or Zoom meeting works well
 3. I always keep my email inbox clean. If you are more of an email person, do not fear I will definitely see it.
 4. For anything that needs a larger conversation, grab some time on my calendar. I do my best to keep it up to date
-5. I am located in LA so my hours are generally 9am - 6pm PST
+5. I am located in Brazil, at the moment, but my normal block hours are generally 8am - 5pm PST (or 12-9 BR time during Daylight savings and 1-10 when the time changes for fall/winter)
 
-If you do not get a reaction or response within an hour or so, feel free to follow up.
+If you do not get a reaction or response within an hour or so, feel free to follow up via text.
 
 ## My Working Style/Expectations
 
-### Stjax Style
+### Josh Style
 - I see my team as a "team" - sports analogies will be used - and I expect that team to work together in order to win
-- I like surrounding myself with problem solvers. I think like an engineer but have evolved into a product manager over time so I love to tackle problems. 
+- I like surrounding myself with problem solvers. I think like an engineer but have evolved into a people manager / leader over time so I love to tackle problems. 
 - When my coworkers look to me for help/support I prefer they lead with the problem not the potential solutions. Working out solutions is what I do best!
 - I love to talk through ideas out loud
-- Big on company culture
-- DEI initiatives are near and dear to my heart
-
+- Huge on continously developing company culture
 
 ### Weaknesses I Am Conscious Of
 
-- I can get distracted by problems that are not urgent - they can't be that hard to fix right?!
-- I have strong feelings about engineering practices/principles that can leak out even now that I am no longer an engineer
-- I will try to make you my friend - not everyone is looking for friends at work 
-
+- I have strong feelings about engineering practices/principles so I occasionally push on making changes
+- I have strong feelings about testing practices, devops and CI approaches - but I will try not to be too prescriptive
 
 ### My Values (and what I value in others)
 
 - Work together to achieve great things
-- Nobody should be too big or important to do the small things needed for success
+- Nobody should be too big or important to do the small things needed for success - We should recognize great things!
 - The makeup of a great team includes diversity in skills, ideas, and people
+- I do not like single points of failure! (I like when more experienced engineers train less experienced engineers on how to do the things that they know)
 
 ### Quotes I live by
 “Be more concerned with your character than your reputation, because your character is what you really are, while your reputation is merely what others think you are.” - John Wooden
@@ -64,33 +57,27 @@ If you do not get a reaction or response within an hour or so, feel free to foll
 - Unproductive meetings - scheduled meetings are a necessary evil in the workplace, but if you are blocking time, remember your meeting costs the company the salaries of everyone involved in the meeting for however long the meeting runs.
 
 ## Things You Should Know About Me
-- I am a proud UCLA Grad - it will come up
-- Lakers, Cowboys, Dodgers, UCLA > all other sports teams
+- 49ers, Warriors, Giants > all other sports teams
 - I hate awkward silence
 - I love sour candy
-- I play basketball and soccer but am willing to compete in basically anything
+- I played baseball at the semi-pro level but am willing to compete in basically anything
 
 ## Things You May Not Know About Me
-- I was an engineer for over 3 years after college
-- I was with my first company after college for over 9 years
-- I'm an only child
-- I can put together a solid Freddie Mercury costume
+- Almost everywhere I've ever worked has been acquired - I've been through 6 acquisitions
+- My longest singe company experience was 8 years (Occam networks before it was acquired by Calix)
+- I'm the oldest of 4 children (3 boys and 1 girl who is the youngest)
+- My wife is Brazilian and we are living in Brazil with our 2 young boys (Victor 11 and Andrew 8) to teach them about the culture and diversity of their mother's background. My in-laws live with us in the US and are permanent residents of the U.S. but they only speak Portuguese so the boys are getting a nice intro to the bi-lingual life :)
+- I love Fantasy Football and have been playing for 30 years
 
-## My Claim to Fame
-I came up with the idea for a product that grew from $1M in year one, to over $80 Million dollars in sales for online retailers in the 3rd year after the official launch. Working alongside one of my coworkers to develop the intial prototype, I served as the first engineer on the product and eventually the product manager overseeing all of it's activity.
+## My Claims to Fame
+- I have a patent to my name via developing a ruby gem for a company called Mu-Dynamics -- the gem converts a har file (http archcive) to the Mu dynamics domain specific language.
+- I tried out for 6 professional baseball teams (at the same time) when I was 25 but they said despite my skills I was too old to be getting back into baseball (since everyone else at the tryout was 18)
 
 ## My Swings And Misses
 I have had plenty of "great ideas" that never came to fruition. Owning those "swings and misses" I think helps me keep moving forward
 
-- Early in my engineering career I invested a decent amount of time building a program that would automate creating affiliate links with Pinterest "pins". When I got close to finishing that project, Pinterest blocked affiliate links. Lesson: when you build a product that relies on another companies product, they can pull the rug right out from underneath you. Make sure to diversify external dependencies when possible.
+- I started a medical/healthcare startup as the CTO with a friend from college many years ago and we won 350K in a competition for new startups and 6 months of office space at Venrock capital. Unfortunately due to circumstances outside of our control it did not last and we ran out of money. It's very hard working with different hospitals and universities - lots of red tape and delays.
 
-- When Fanduel launched I tried writing a program that could produce optimal lineups given statistics from recent games. It turned out to be a quick way to lose money. Lesson: Gambling can be expensive
-
-- One summer I decided I was going to write a book. I do not like to read, but I thought a book was a good idea. Here is an excerpt from the chapter I never finished. Lesson: Writing a book is hard
-
-The biggest scholarship that I had received was through Hewlett-Packard. It not only provided some financial support, it also gave me a laptop, palm pilot (Google it), printer, and most importantly it guaranteed an internship spot during my first few summers assuming I could maintain eligibility by fulfilling all of the requirements of the scholarship throughout my time at UCLA. One of those requirements was that I had to maintain a 2.5 GPA. That’s not too bad, right? I mean, I had perfect grades in high school. Even if I got a couple B’s it would not even matter. Easy. No problem. How could I possibly mess up that badly? Well, as you might have guessed from all that build up, I came up short. After only one quarter at UCLA I had a sub 2.5 GPA. It only took me 10 weeks to mess that up. This was a huge blow, not only my confidence, but the giant ego I had going into my first year of college. I was supposed to be one of those lucky few freshmen who could claim an internship in a field that actually mattered. I was supposed to be the one who got work experience while everyone else went home and got a job at the mall. Obviously not everything that is “supposed” to happen actually works out. I could not believe it. I still tried applying to different internship opportunities but who wants a struggling freshman with a sub 2.5 GPA?
-
-My parents knew about the scholarship, so there was no way to avoid the conversation. I remember being home one of the weekends close to the end of the year talking to my dad about what I was planning on doing for the summer. I told him that I had tried to apply to internships but nothing worked out so that I would try getting something at the Mall or maybe the local Best Buy. He smiled and explained why it made no sense to take a job that was going to pay $9 when we had a family friend with a construction company looking for help during the summer. Even the word “construction” made me shudder. Manual labor? I was not built for that. I was going to be an engineer, but I was studying computer science. That is the type of engineering that requires electrical outlets and air conditioning not dirt and a shovel. I put up as much of a fight as I could but I knew by the look on his face that he was not going to budge. If he was going to be taking on extra work for the summer to help put me through college, I did not have much to stand on. I was getting ready to take on the ultimate Millennial nightmare. I was going to have a hard working job that was labor intensive, in a position of absolutely no authority, and required that I wear a full jumpsuit and hardhat. There is nothing fashionable or appealing about that. I was also going to be supervised daily by my own father. To top it all off, the work was every weekend starting at 5am in Moreno Valley. To help paint the picture a bit, I was surrounded by dirt, standing in 100 degree temperatures, wearing a long sleeve jumpsuit and a hard hat. I know I mentioned the outfit before but it was really not a great look.
 
 
 
